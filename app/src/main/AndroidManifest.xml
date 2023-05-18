@@ -12,6 +12,18 @@
         android:theme="@style/Theme.TetoShoppy"
         tools:targetApi="31">
         <activity
+            android:name=".Camiseta_hembra"
+            android:exported="false" />
+        <activity
+            android:name=".Camiseta_hombre"
+            android:exported="false" />
+        <activity
+            android:name=".camisas_main"
+            android:exported="false" />
+        <activity
+            android:name=".menu_xml"
+            android:exported="false" />
+        <activity
             android:name=".registros"
             android:exported="false" />
         <activity

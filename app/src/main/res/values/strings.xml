@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TetoShoppy</string>
+
+    <string name="IB">camisa</string>
 </resources>
